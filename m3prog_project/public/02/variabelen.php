@@ -11,3 +11,8 @@ $$auto = "ja";
 $kleurVanAuto = "ja";
 //$software-dev = "ja";
 
+echo $auto2;
+echo $_naam;
+echo $naw;
+echo $$auto;
+echo $kleurVanAuto;
